@@ -8,17 +8,17 @@
  
  <p>Caso tenham interesse aos desafios acessem o <a href="https://www.figma.com/file/Yb9IBH56g7T1hdIyZ3BMNO/Desafios---Codel%C3%A2ndia?node-id=0%3A1">figma</a> </p>
 
-## Preview Desktop
+## Preview Desktop 💻
 
 <img src="./assets/img/Preview-Desktop.PNG">
 
-## Preview Mobile
+## Preview Mobile 📱
 
 <img src="./assets/img/Preview-Mobile.PNG">
 
-# Tecnologias utilizadas
+# Tecnologias utilizadas 🌐
 
-## Front end
+## Front end 🔆
 - HTML
 - CSS
 
