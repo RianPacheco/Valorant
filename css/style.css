@@ -115,8 +115,18 @@ section {
     display: none;
   }
 
+  main {
+    padding: 0px;
+    display: flex;
+    justify-content: center;
+  }
+
   section {
     padding: 0px;
+  }
+
+  .vetores {
+    margin-top: 20px;
   }
 
   .vava {
@@ -143,7 +153,16 @@ section {
   }
 
   .blur,
-  .blur-2,
+  .blur-2 {
+    width: 207px;
+    height: 158px;
+  }
+
+  .blur-2 {
+    top: 740px;
+    left: 60px;
+  }
+
   .blur-3 {
     display: none;
   }
